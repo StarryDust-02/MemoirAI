@@ -1,0 +1,21 @@
+name totcount
+category Package
+revision 77682
+shortdesc Find the last value of a counter
+longdesc The package records the value that was last set, for any
+longdesc counter of interest; since most such counters are simply
+longdesc incremented when they are changed, the recorded value will
+longdesc usually be the maximum value.
+containersize 2260
+containerchecksum 581de28b1f93ded3fd2ee0ede408d779c766ee9ffa7be778aaa06781e10ae382534032f0b9eab20bc40cc2f0c3e74854237ebef44d87f7c7af833e467a9e8dfa
+doccontainersize 286576
+doccontainerchecksum a7cab33d3bf4a1a236d662be3be7a800016862d53f61c30e54eb80ef3bbae9231a246ea3e8dae2dfb6ba8b0fb4aabecb7380d4a127f047e58846133924a26d93
+srccontainersize 6680
+srccontainerchecksum 8d7e986c63515d2e02bf85b1091e9352c9ac620f0f4394c7e68869f34451eb6b3725837514cf894363fed6a5260f14e0c4a0c4d9b7eded59b0e713662e6f328e
+runfiles size=2
+ texmf-dist/tex/latex/totcount/totcount.sty
+catalogue-also lastpage totpages
+catalogue-ctan /macros/latex/contrib/totcount
+catalogue-license lppl
+catalogue-topics macro-supp counter-mgmt tagged-pdf
+catalogue-version 1.2

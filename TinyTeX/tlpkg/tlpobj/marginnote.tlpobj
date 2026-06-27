@@ -1,0 +1,22 @@
+name marginnote
+category Package
+revision 78632
+shortdesc Notes in the margin, even where \marginpar fails
+longdesc This package provides the command \marginnote that may be used
+longdesc instead of \marginpar at almost every place where \marginpar
+longdesc cannot be used, e.g., inside floats, footnotes, or in frames
+longdesc made with the framed package.
+containersize 3356
+containerchecksum b40c3a4b3a1f29ba696176e66e63e30d519c43caa1929ab1b96f22f1f03f8f0ec4a284a7da7090f707973c1fad43645991459223f92fb292dc5734d473a3509a
+doccontainersize 467588
+doccontainerchecksum 6f988908b7916244b0373622bd33945c9a9e5c439973afcc8ff7a515cf3099c8f3afb8b932aa3f0aa5e55afb5acc28f308aa804a321bea3bd584ed203d2b3e13
+srccontainersize 10312
+srccontainerchecksum 6152f94cd46030d6ced4ed9b9df236c767fcba1e278c4470f502bea8ef7a7d80cf5083e6cc4b78fb919e43650e9ae98030c465c41bbfa87386f784a68ce14911
+runfiles size=4
+ texmf-dist/tex/latex/marginnote/marginnote.sty
+catalogue-contact-home https://codeberg.org/komascript/marginnote
+catalogue-contact-repository https://codeberg.org/komascript/marginnote.git
+catalogue-ctan /macros/latex/contrib/marginnote
+catalogue-license lppl1.3c
+catalogue-topics notes marginal tagged-pdf-incompatible
+catalogue-version 1.4d

@@ -1,0 +1,21 @@
+name paralist
+category Package
+revision 77682
+shortdesc Enumerate and itemize within paragraphs
+longdesc Provides enumerate and itemize environments that can be used
+longdesc within paragraphs to format the items either as running text or
+longdesc as separate paragraphs with a preceding number or symbol. Also
+longdesc provides compacted versions of enumerate and itemize.
+containersize 3720
+containerchecksum 4f7ab5f430241792ef79aad6e6e195aa269d443f00e118106724fec39e76a5305c0b12e231a50e0549c8986cc4d5d57a4da4e140883642cac70dafa2834ef91f
+doccontainersize 209088
+doccontainerchecksum b518ef913aeb19135aec59c4eaaa20f4b61b27bc2870ad0373da066c6349483142e40857033b36bcddf142b5f35abb8db0a944ecc90798087c4dff2ebcb222c4
+srccontainersize 14840
+srccontainerchecksum 29255de37b20d06f1de3f54047b3f9032889713b19909d64194327d95b7f92b3380ad1da8169075be0a09ef90accd3cec7a2801d90c525e710c33b43bd6b21ee
+runfiles size=4
+ texmf-dist/tex/latex/paralist/paralist.sty
+catalogue-also shortlst multenum
+catalogue-ctan /macros/latex/contrib/paralist
+catalogue-license lppl
+catalogue-topics list list-bull list-enum tagged-pdf-incompatible
+catalogue-version 2.7

@@ -1,0 +1,19 @@
+name endnotes
+category Package
+revision 77682
+shortdesc Place footnotes at the end
+longdesc Accumulates notes (using the \endnote command, which can be
+longdesc used as a replacement for \footnote), and places them at the
+longdesc end of the section, chapter or document.
+containersize 5520
+containerchecksum f8703d3a57d4586b81b4902a9dff03b0be09122d8d644f453b9ac9dab109b59aa790cb74caa462ed7c06ebc0746533bc244b8496b0029d71e4fe608cb4d0891a
+doccontainersize 280168
+doccontainerchecksum 07976efa7bea75bd063ea3c6b76cd1787be0158a584bbc0fba0e05fcc92a527768fc7bb46e13f7a653e0951597036ca180ce0ec7bf7070e4ed3c25c36dee6415
+runfiles size=4
+ texmf-dist/tex/latex/endnotes/endnotes.sty
+catalogue-also fnpara footmisc footnpag
+catalogue-contact-repository https://github.com/rf-latex/endnotes
+catalogue-contact-support https://github.com/rf-latex/endnotes/issues
+catalogue-ctan /macros/latex/contrib/endnotes
+catalogue-license lppl1.2
+catalogue-topics endnote tagged-pdf-partially

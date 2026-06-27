@@ -1,0 +1,16 @@
+name threeparttablex
+category Package
+revision 77682
+shortdesc Notes in longtables
+longdesc The package provides the functionality of the threeparttable
+longdesc package to tables created using the longtable package.
+containersize 2316
+containerchecksum d17751fe8822e67447fafcfb32746db8e8e08939c9c3add2bcf0fc24b31ba058e053731a23e80f794243f894d959f0f9c00b1fa32526ea31dbb9b19932042578
+doccontainersize 64400
+doccontainerchecksum 40f01389e749c354594bc2f52cb7955cdd1c1aa1736b8f439608c98d7bf42543739f0116232744b3203901547b53a3ef1473f9e4ffbc10b9c5e71914865489e2
+runfiles size=2
+ texmf-dist/tex/latex/threeparttablex/threeparttablex.sty
+catalogue-ctan /macros/latex/contrib/threeparttablex
+catalogue-license lppl
+catalogue-topics table notes tagged-pdf-incompatible
+catalogue-version 0.3

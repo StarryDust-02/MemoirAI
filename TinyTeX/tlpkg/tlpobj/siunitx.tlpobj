@@ -1,0 +1,38 @@
+name siunitx
+category Package
+revision 79011
+shortdesc A comprehensive (SI) units package
+longdesc Physical quantities have both numbers and units, and each
+longdesc physical quantity should be expressed as the product of a
+longdesc number and a unit. Typesetting physical quantities requires
+longdesc care to ensure that the combined mathematical meaning of the
+longdesc number-unit combination is clear. In particular, the SI units
+longdesc system lays down a consistent set of units with rules on how
+longdesc these are to be used. However, different countries and
+longdesc publishers have differing conventions on the exact appearance
+longdesc of numbers (and units). The siunitx package provides a set of
+longdesc tools for authors to typeset quantities in a consistent way.
+longdesc The package has an extended set of configuration options which
+longdesc make it possible to follow varying typographic conventions with
+longdesc the same input syntax. The package includes automated
+longdesc processing of numbers and units, and the ability to control
+longdesc tabular alignment of numbers.
+containersize 70164
+containerchecksum f02b871cd05f3e3a5138d95d9466a11e71ad178a17d8c80b93b109c38690c488e6b47142f18d6c1115b226c5f255c54896a9a50c50557d5c5e385dbb0f3fbf73
+doccontainersize 758664
+doccontainerchecksum a3fe4537d1edea77cc57ca491c3f0c63410bf288913cfddb45586eeba1bf007c7c4823a07441e732bb3f71429082991aa3b08e06519cf5c82604465806627560
+srccontainersize 129412
+srccontainerchecksum bd676042c5f008186889daf6a6ebe62b7b2da2325f02440351da18d873e78c150f8f9c2389ef57c77892bad925255370e4a0d0b0c7b05ead50c4827be8895ae4
+runfiles size=165
+ texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+ texmf-dist/tex/latex/siunitx/siunitx-binary.cfg
+ texmf-dist/tex/latex/siunitx/siunitx-v2.sty
+ texmf-dist/tex/latex/siunitx/siunitx-version-1.cfg
+ texmf-dist/tex/latex/siunitx/siunitx.sty
+catalogue-contact-bugs https://github.com/josephwright/siunitx/issues
+catalogue-contact-home https://www.texdev.net
+catalogue-contact-repository https://github.com/josephwright/siunitx
+catalogue-ctan /macros/latex/contrib/siunitx
+catalogue-license lppl1.3c
+catalogue-topics units scientific-docs tagged-pdf-partially
+catalogue-version 3.5.5

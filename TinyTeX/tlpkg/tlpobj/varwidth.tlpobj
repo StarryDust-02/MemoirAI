@@ -1,0 +1,18 @@
+name varwidth
+category Package
+revision 77682
+shortdesc A variable-width minipage
+longdesc The varwidth environment is superficially similar to minipage,
+longdesc but the specified width is just a maximum value -- the box may
+longdesc get a narrower "natural" width.
+containersize 4148
+containerchecksum 8954649fd8dd271184378e93a89fc8da72876b802752b872ce23cb8b5c1639e3fefed9e3a28a56e43dd65ea2d050eac936ea12c87830ee2672aac7665a140a21
+doccontainersize 25844
+doccontainerchecksum b2c7ddb1aec69e1501167a2dfa1ad5d6cd8f1b12593f51cc2d28a07502f20d91f77a1c44a1df0816a35cdfaf042c6c16ebb3085a504301fbe6d8922daeda3207
+runfiles size=3
+ texmf-dist/tex/latex/varwidth/varwidth.sty
+catalogue-also pbox tabbingbox
+catalogue-ctan /macros/latex/contrib/varwidth
+catalogue-license lppl
+catalogue-topics boxing fit-to-size tagged-pdf-incompatible
+catalogue-version 0.92

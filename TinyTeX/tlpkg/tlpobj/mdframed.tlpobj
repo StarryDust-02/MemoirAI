@@ -1,0 +1,27 @@
+name mdframed
+category Package
+revision 77682
+shortdesc Framed environments that can split at page boundaries
+longdesc The package develops the facilities of framed in providing
+longdesc breakable framed and coloured boxes. The user may instruct the
+longdesc package to perform its operations using default LaTeX commands,
+longdesc PStricks or TikZ.
+containersize 21400
+containerchecksum c414938d1ebaf412ff5a912153c7cd69b83a30387c74f2cb6418dbbce5bb378d6ccdb5f87e1d58d829c7e56b3c4d97b1c39d7523e0f5ef8a505cad8d47f48af2
+doccontainersize 1396108
+doccontainerchecksum 765152c8f9ead3b57a3f05a6cddf4b9dec3595ffede7e6207d280bc59842f820e35d8b3b121170c89b33453e02368fe8e811fa17a32f5144e948c1fe0b02341b
+srccontainersize 41792
+srccontainerchecksum cc3a023e357783f4ee81d7bd8daaade4a9e682e85ce6be06fc7377f95c4c26ed91ce6080b7298ed94980c02fa1aff2f82b4a1e881e0f5c6c3e97ef4419765e67
+runfiles size=54
+ texmf-dist/tex/latex/mdframed/ltxmdf.cls
+ texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+ texmf-dist/tex/latex/mdframed/md-frame-1.mdf
+ texmf-dist/tex/latex/mdframed/md-frame-2.mdf
+ texmf-dist/tex/latex/mdframed/md-frame-3.mdf
+ texmf-dist/tex/latex/mdframed/mdframed.sty
+catalogue-also framed
+catalogue-contact-repository https://github.com/marcodaniel/mdframed
+catalogue-ctan /macros/latex/contrib/mdframed
+catalogue-license lppl
+catalogue-topics boxing box-breaking decoration tagged-pdf-unsupported
+catalogue-version 1.9b
