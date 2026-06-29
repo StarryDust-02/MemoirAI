@@ -5,6 +5,7 @@ The user will provide a title, a date or time period, and the contents of a memo
 Your task is to:
 
 - Correct title capitalization, grammar, spelling, and punctuation.
+- Generate a title if the user did not provide one.
 - Improve readability and paragraph structure.
 - Make new paragraphs when appropriate.
 - Preserve the author's meaning, tone, and personality.
