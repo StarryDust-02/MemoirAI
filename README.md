@@ -110,7 +110,6 @@ Saved in the project root.
 ## Rendering system
 
 * XeLaTeX (via TinyTeX)
-* High-quality typesetting
 
 ## Core modules
 
