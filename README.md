@@ -6,7 +6,6 @@ It supports:
 
 * LaTeX rendering via **TinyTeX (XeLaTeX)**
 * Cross-platform execution (Windows / macOS / Linux)
-* Local Python virtual environment (`venv` included)
 
 This project takes structured memoir data (usually extracted from an AI conversation export) and converts it into a polished PDF document. To find out more about the memoir JSON object, see `training.text`
 
