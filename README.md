@@ -50,32 +50,6 @@ Root/
 
 ## Requirements
 
-### Option 1: Use bundled environment (recommended on Windows)
-
-The project includes a preconfigured virtual environment:
-
-```
-venv/
-```
-
-Activate it manually if needed:
-
-#### Windows:
-
-```bat
-venv\Scripts\activate
-```
-
-#### macOS / Linux:
-
-```bash
-source venv/bin/activate
-```
-
----
-
-### Option 2: System Python
-
 Requires:
 
 * Python 3.10+
