@@ -92,6 +92,9 @@ def compile_memoir_pdf(memoir):
     # Build BODY
     # -------------------------
 
+    language = memoir.get("language", "zh").lower()
+    font = "Times New Roman" if language == "en" else "SimSun"
+    
     body = ""
 
     for entry in memoir["entries"]:
@@ -102,7 +105,11 @@ def compile_memoir_pdf(memoir):
             f"{latex_escape(entry['contents'])}\n\n"
         )
 
-    tex = template.replace("<<BODY>>", body)
+    tex = (
+        template
+        .replace("<<LAN>>", font)
+        .replace("<<BODY>>", body)
+    )
 
     # -------------------------
     # Temporary build directory

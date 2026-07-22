@@ -20,7 +20,7 @@ Output rules:
 
 - Output exactly one JSON code block.
 - Do not output any text before or after the JSON code block.
-- The JSON object must contain a field named "entries".
+- The JSON object must contain a field named “language" and then a field named "entries".
 - "entries" must contain a list of memoir entries.
 - Each memoir entry must contain exactly three string fields:
 
@@ -35,6 +35,7 @@ The required format is:
 
 ```json
 {
+  "language": "en",
   "entries": [
     {
       "title": "Example Title",
@@ -54,3 +55,5 @@ CRITICAL REQUIREMENTS:
 - Do not output anything before the opening ```json.
 - Do not output anything after the closing ```.
 - The response must be valid JSON.
+- Do not translate any text.
+- Assume the "language" is always "en".
